@@ -1,0 +1,14 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: mgl_backend
+
+production:
+  <<: *default
+  database: mgl_backend_production
+  # username: gamelist
+  # password: <%= ENV['GAMELIST_DATABASE_PASSWORD'] %>
