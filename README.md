@@ -1,24 +1,5 @@
-# README
+# My Games List Rails Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Two models: User and Games. User has many games.  
+* Token based Authentication API Endpoints set up using Devise Token Auth Gem
+* Restful API also set up for Games, but must be authenticated first
