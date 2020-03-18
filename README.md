@@ -1,3 +1,5 @@
+_**[Learning Activity - Not Maintained]**_
+
 # My Games List Rails Backend
 
 * Two models: User and Games. User has many games.  
