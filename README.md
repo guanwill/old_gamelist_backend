@@ -1,4 +1,4 @@
-_**[Learning Activity - Not Maintained]**_
+_**[Learning Activity - Not Maintained/Not Consumed]**_
 
 # My Games List Rails Backend
 
