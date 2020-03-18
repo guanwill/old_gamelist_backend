@@ -75,7 +75,7 @@ GEM
       rails (< 6)
     erubi (1.7.0)
     execjs (2.7.0)
-    ffi (1.9.18)
+    ffi (1.12.2)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     hashie (3.5.6)
